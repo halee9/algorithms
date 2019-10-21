@@ -15,4 +15,8 @@
 
 * [Call, Bind and Apply](https://blog.bitsrc.io/understanding-call-bind-and-apply-methods-in-javascript-33dbf3217be)
 * [Promises, async/await](https://javascript.info/async)
+* [Closures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures)
 
+## React
+
+* [Spring Boot and ReactJs](https://medium.com/coding-crackerjack/spring-boot-and-reactjs-a50367d56521)
